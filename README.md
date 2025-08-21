@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Vishalraajput
-- 👀 I’m interested in technical field...
-- 🌱 I’m currently persuing BCA from PSIT kanpur...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can email me at itsvishal117@gmail.com ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hey there! I'm Vishal.
 
-<!---
-Vishalraajput/Vishalraajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a code-crafter and data adventurer on a mission to find stories hidden within the numbers. I believe every dataset has a secret to tell, and I'm learning the languages (like Python and SQL) to understand them.
+
+---
+
+| Currently      | Focusing On                                     |
+| :------------- | :---------------------------------------------- |
+| 🚀 **Mission** | Building a solid foundation in Data Science & Web Development. |
+| 🎓 **Basecamp** | Pursuing a BCA at PSIT Kanpur.                  |
+| 🛠️ **Toolkit** | Python, Pandas, NumPy, HTML, CSS, JavaScript.   |
+
+**Looking for a Co-Pilot!** 🤝
+
+I'm eager to collaborate on projects involving data visualization, machine learning, or building useful web tools. If you have a quest, I'm ready to join!
+
+-   **Find me here:** [Email](mailto:itsvishal117@gmail.com) | [LinkedIn](your-linkedin-url) | [GitHub](https://github.com/Vishalraajput)
+-   **Pronouns:** Charshi
